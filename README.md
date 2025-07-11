@@ -22,6 +22,6 @@ This project explores the phenomenon of Electromagnetically Induced Transparency
 - Simulation of EIT effect and spectral profiles
 
 
-##One can read more about the project [here](Quantum_Mechanics__Electromagnetically_Induced_transparency.pdf)##
+##One can read more about the project [here](Quantum_Mechanics__Electromagnetically_Induced_transparency%20%281%29.pdf)##
 
 
