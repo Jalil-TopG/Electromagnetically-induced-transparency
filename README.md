@@ -20,3 +20,6 @@ This project explores the phenomenon of Electromagnetically Induced Transparency
 - Dynamic control of probe and coupling fields
 - Comparison of absorption with and without coupling laser
 - Simulation of EIT effect and spectral profiles
+
+
+**One can read more about the project here Quantum_Mechanics__Electromagnetically_Induced_transparency (1).pdf**
